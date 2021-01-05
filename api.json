@@ -1,0 +1,20 @@
+{
+    "get" : {
+        "id": "b3723b25-d2d3-4947-82dc-a436b31f3d4e",
+        "secret": "SVE#2YBQZ)4PWA6{STZ(H]R*",
+        "name": "KK30COBA",
+        "jwtsecret": "oCu5slNbPhrEaXrLG6npiLfCwa167QDPsXVPzqJ9MBR1Owq3ICUg0FG6QbO3FQzkpFqRfgbTzF1TwBs+k/uWsg==",
+        "jwtalgorithm": "HS512",
+        "user_id": "095c76e5-276f-40eb-9720-114605308752",
+        "sentry_dsn": "https://cd2df51f71b04264932f1c10736d22e4@sntr.soulparking.co.id/4",
+        "ipcam_ip": "192.168.100.9",
+        "ipcam_username": "admin",
+        "ipcam_password": "password",
+        "is_gate": "1",
+        "printer_vendor_id": "04b8",
+        "printer_product_id": "0e11",
+        "gate_type": "checkin",
+        "ssh_public_key": "",
+        "code": "raspi-tnabang01"
+    }
+}
