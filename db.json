@@ -14,7 +14,7 @@
         "printer_vendor_id": "04b8",
         "printer_product_id": "0e11",
         "gate_type": "checkin",
-        "ssh_public_key": "",
+        "callback_port": "22001",
         "code": "raspi-tnabang01"
     }
 }
